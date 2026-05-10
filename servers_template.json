@@ -1,0 +1,10 @@
+[
+  {
+    "enabled": true,
+    "name": "SERVER-ALARAB (ﺏﺮﻌﻟﺍ ﺮﻓﺮﻴﺳ)",
+    "ip": "134.19.177.234",
+    "port": 26077,
+    "type": "source",
+    "channel": "1502801453482246315"
+  }
+]
